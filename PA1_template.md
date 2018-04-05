@@ -10,7 +10,7 @@ This assignment makes use of data from a personal activity monitoring device. Th
 
 ## Setting general options and library
 
-Setting general options
+Setting knitr general options
 
 
 Uploading necessary library for R script
